@@ -3,7 +3,7 @@ body {
             text-align: center;
             margin: 0;
             padding: 0;
-            background: linear-gradient(135deg, #ffffff, #ff3131, #0733d1);
+            background: linear-gradient(135deg, #ffffff, #ff3131, #ffde59);
             height: 100vh;
             display: flex;
             flex-direction: column;
@@ -30,7 +30,7 @@ body {
             padding: 10px 20px;
             font-size: 1.2em;
             color: white;
-            background: #0733d1;
+            background: #ff3131;
             border: 2px solid white;
             border-radius: 5px;
             text-decoration: none;
